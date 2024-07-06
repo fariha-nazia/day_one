@@ -1,3 +1,7 @@
 p{
-    color: beige;
+    color: blue;
+}
+.para {
+    border: 4px solid red;
+    padding: 4px;
 }
